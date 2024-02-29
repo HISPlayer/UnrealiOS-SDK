@@ -80,7 +80,7 @@ To use the SDK in the Windows Editor, make sure that the **Default RHIs** option
 </p>
 
 ## Packaging the project
-Before packaging the project, please make sure first that you are using the correct Xcode version and iOS configurations. You can check them in the [official Unreal documentation page](https://docs.unrealengine.com/5.0/en-US/ios-ipados-and-tvos-support-for-unreal-engine/).
+Before packaging the project, please make sure first that you are using the correct Xcode version and iOS configurations. You can check them in the [official Unreal documentation page](https://docs.unrealengine.com/5.0/en-US/ios-ipados-and-tvos-support-for-unreal-engine/). To build remotly from a Windows device, check the [official Unreal guide](https://docs.unrealengine.com/5.2/en-US/building-ios-projects-on-windows-in-unreal-engine/).
 
 In order to package the project, you need to make sure that **Your_Project.uproject** file has been correctly updated on the **“Plugins”** field:
 

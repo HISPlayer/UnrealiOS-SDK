@@ -1,6 +1,5 @@
 - [HISPlayer Unreal Android SDK](/introduction.md)
 - [Quickstart Guide](/setup-guide.md)
-- [DRM](/DRM.md)
 - [HISPlayer API](/hisplayer-api.md)
 - [Update the SDK](/update-the-sdk.md)
 - [Releases](/releases.md)

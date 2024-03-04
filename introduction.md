@@ -9,15 +9,20 @@ Only official Unreal versions from Epic Games Store are supported. Custom source
 
 ### Supported Stream Protocols: 
 * HLS
+* Local Playback
 
 ### Video Codecs:
 * H.264 (AVC)
+  * Container Format must be fragmented MP4 (fMP4) files or MPEG transport streams
+  * Profile and Level must be less than or equal to High Profile, Level 5.2. Do not use Main or Baseline Profile.
 * H.265 (HEVC)
+  * Container Format must be fragmented MP4 (fMP4) files
+  * Profile, Level, and Tier must be less than or equal to Main 10 Profile, Level 5.1, High Tier.
 
 ### Audio Codecs:
 * AAC
 * MP3
-* ALAC
+
 ### Supported Local Formats
 * WMV
 * RM

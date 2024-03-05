@@ -1,4 +1,4 @@
-# HISPlayer IOS SDK
+# HISPlayer Unreal IOS SDK
 The most advanced video streaming player for Unreal Engine supporting VOD and Live contents. It enables premium HLS video streaming inside your Unreal games and metaverses on IOS. It is fully customizable. If you require specific or advanced features, please don't hesitate to contact us at contact@hisplayer.com.
 
 ## Compatibility

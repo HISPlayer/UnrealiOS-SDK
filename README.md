@@ -4,7 +4,7 @@ HISPlayer is the most advanced Unreal Engine Media Player for IOS VOD and live c
 
 Here you can find the full Documentation:
 
-https://hisplayer.github.io/UnrealIOS-SDK/#/
+https://hisplayer.github.io/UnrealiOS-SDK/#/
 
 ## Try our Unreal Engine Video Player SDK Now!
 

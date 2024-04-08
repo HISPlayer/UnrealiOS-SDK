@@ -13,7 +13,6 @@ Only official Unreal versions from Epic Games Store are supported. Custom source
 
 ### Supported Stream Protocols: 
 * HLS
-* Local Playback
 
 ### Video Codecs:
 * H.264 (AVC)
@@ -27,7 +26,7 @@ Only official Unreal versions from Epic Games Store are supported. Custom source
 * AAC
 * MP3
 
-### Supported Local Formats
+### Supported Video Formats
 * WMV
 * RM
 * MP3

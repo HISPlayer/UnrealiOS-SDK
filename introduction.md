@@ -48,8 +48,6 @@ Only official Unreal versions from Epic Games Store are supported. Custom source
 
 ### Supported Graphics API:
 * Metal
-  
-### HISPlayer Unreal SDK is available to be built using Windows platform. For more information on how to do it, check the [official Unreal guide](https://docs.unrealengine.com/5.2/en-US/building-ios-projects-on-windows-in-unreal-engine/).
 
 ### Multistream is not supported for IOS platform.
 

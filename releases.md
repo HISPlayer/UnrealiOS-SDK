@@ -1,7 +1,7 @@
 # HISPlayer IOS SDK Release Notes
 
 ### Version 2.1.0
-##### April 8, 2023
+##### April 8, 2024
 - [Added] MacOS editor support.
 
 ### Version 2.0.0

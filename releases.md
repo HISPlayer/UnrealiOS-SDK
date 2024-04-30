@@ -3,6 +3,10 @@
 ##### April 30, 2024
 - [Improvement] Optimized the creation and destruction of the HISPlayer_Blueprint process.
 
+### Version 2.4.0
+##### April 26, 2024
+- [Added] UE5.4 support.
+
 ### Version 2.3.0
 ##### April 24, 2024
 - [Added] OnInitComplete delegate.

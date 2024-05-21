@@ -49,8 +49,6 @@ Only official Unreal versions from Epic Games Store are supported. Custom source
 ### Supported Graphics API:
 * Metal
 
-### Multistream is not supported for IOS platform.
-
 ## Unreal for IOS Minimum IOS Version:
 * 15
 

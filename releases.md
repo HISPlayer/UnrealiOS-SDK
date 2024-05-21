@@ -2,7 +2,7 @@
 ### Version 2.6.1
 ##### May 21, 2024
 - [Improvement] Improvement of Get HISPlayerStatus API.
-  
+
 ### Version 2.6.0
 ##### May 16, 2024
 - [Added] Multistream support for Windows, Mac, iOS and Android platforms

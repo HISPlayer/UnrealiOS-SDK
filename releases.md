@@ -1,6 +1,6 @@
 # HISPlayer IOS SDK Release Notes
 ##### May 31, 2024
-- [Improvement] HISPlayer matetrial is now color emissive. 
+- [Improvement] Optimized HISPlayer matetrial to be color emissive without being affected by external light source.
 
 ### Version 2.6.1
 ##### May 21, 2024

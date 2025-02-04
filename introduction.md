@@ -3,8 +3,6 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 
 ## Compatibility
 ### Supported Unreal Versions: 
-* 4.27
-* 5.0
 * 5.1
 * 5.2
 * 5.3

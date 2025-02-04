@@ -104,5 +104,20 @@ Must be called for closing and releasing HISPlayer.
 #### static void CreateNewTexture(int streamIndex, FIntPoint resolution, UTexture2D*& outputTexture) // HISPlayer Create New Texture 
  Create a new texture of a new resolution for a particular stream.
   * **Param1**: Stream index.
-	 * **Param2**: FIntPoint for resolution. X value for Width, Y value for Height.
-	 * **Param3**: Result texture reference.
+  * **Param2**: FIntPoint for resolution. X value for Width, Y value for Height.
+  * **Param3**: Result texture reference.
+
+#### static HISPlayerStatus GetPlayerStatus(int streamIndex) // HISPlayer Get Player Status
+Get the current player status.
+  * **Param1**: Stream index.
+  * **Return**: Stream status as a HISPlayerStatus type.
+
+#### static UDelegateManager* GetDelegateManager(int streamIndex) // HISPlayer Get Delegate Manager
+Get the Delegate Manager.
+  * **Param1**: Stream index.
+  * **Return**: Delegate manager reference.
+
+#### static void SetPlaybackProperties(int streamIndex, const FHISPlayerPlaybackProperties& Properties) // HISPlayer Set PlayBack Properties
+Set the current playback properties of the stream. *(SDK v2.3.0 and above)*
+  * **Param1**: Stream index.
+  * **Param2**: PlayerPlaybackProperties type.

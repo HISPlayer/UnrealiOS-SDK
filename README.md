@@ -12,7 +12,8 @@ HISPlayer is the most advanced Unreal Engine Media Player for iOS VOD and live c
 > HISPlayer allows you to upload and host your local video files and convert them into HLS / DASH streaming formats.
 > Open a FREE account [here](https://dashboard.hisplayer.com/signup) to start hosting your videos and play them inside your Unreal projects.
 >
->**[Download FREE Unreal Engine Video Player Here](https://github.com/HISPlayer/Unreal_Engine_Media_Player/releases/tag/v2.9.0.1)**
+>If you use HISPlayer Hosting Platform it includes Free Unreal Media Player.<br>
+>**[Download The FREE Unreal Engine Media Player Here](https://github.com/HISPlayer/Unreal_Engine_Media_Player/releases/tag/v2.9.0.1)**
 >
 > Watch a tutorial **[HERE](https://www.youtube.com/watch?v=awfN0zz-8zQ)**
 >

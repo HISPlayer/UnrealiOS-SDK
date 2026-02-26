@@ -1,4 +1,9 @@
 # HISPlayer iOS SDK Release Notes
+### Version 2.10.0
+##### February 26, 2026
+- [Added] Support for Unreal Engine 5.6 and 5.7.
+- [Improvement] Updated plugin content elements naming to following Unreal Engine naming conventions
+
 ### Version 2.7.0
 ##### May 31, 2024
 - [Improvement] Optimized HISPlayer matetrial to be color emissive without being affected by external light source.

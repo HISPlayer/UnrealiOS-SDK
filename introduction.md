@@ -3,11 +3,10 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 
 ## Compatibility
 ### Supported Unreal Versions: 
-* 5.1
-* 5.2
-* 5.3
-* 5.4
-* 5.5
+  * [Deprecated] 5.1 - 5.4
+  * 5.5
+  * 5.6
+  * 5.7
 
 ### Supported Stream Protocols: 
 * HLS
@@ -19,10 +18,6 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 * H.265 (HEVC)
   * Container Format must be fragmented MP4 (fMP4) files
   * Profile, Level, and Tier must be less than or equal to Main 10 Profile, Level 5.1, High Tier.
-
-### Audio Codecs:
-* AAC
-* MP3
 
 ### Supported Video Formats
 * WMV
@@ -40,6 +35,10 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 * 3GP
 * MPG
 
+### Audio Codecs:
+* AAC
+* MP3
+
 ### Supported Unreal’s Rendering Mode: 
 * Texture
 * UMG UI
@@ -50,8 +49,13 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
 ## Unreal for iOS Minimum iOS Version:
 * 15
 
-## Unreal 5 for Windows Requirements:
+## Unreal Engine 5 - Windows Requirements:
 * Visual Studio 2022
 
-## XCode Supported version:
-* 14.2
+## Unreal Engine 5 – macOS Requirements
+
+Unreal Engine system requirements on macOS depend on the specific Unreal Engine version being used.
+
+For accurate and updated macOS development requirements, please consult the official Unreal Engine documentation:
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/macos-development-requirements-for-unreal-engine

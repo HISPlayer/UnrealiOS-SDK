@@ -7,6 +7,7 @@ The most advanced video streaming player for Unreal Engine supporting VOD and Li
   * 5.5
   * 5.6
   * 5.7
+  * 5.8
 
 ### Supported Stream Protocols: 
 * HLS
